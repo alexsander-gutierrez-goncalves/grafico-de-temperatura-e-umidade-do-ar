@@ -14,4 +14,4 @@ git clone https://github.com/Alex5ander/grafico-de-temperatura-e-umidade-do-ar.g
 
 ### Depois execute o projeto em um servidor web de sua preferência.
 
-[Demo](https://alex5ander.github.io/grafico-de-temperatura-e-umidade-do-ar/)  
+[Demo](https://alexsander-gutierrez-goncalves.github.io/grafico-de-temperatura-e-umidade-do-ar/)  
